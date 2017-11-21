@@ -11,7 +11,7 @@ Esta aplicación nos da una facilidad de administrar nuestra cuenta de Facebook 
 
 Créditos
 
-TODO: Agregar autor(es)
+Imsael Aaron Juarez
 
 Licencia
 
